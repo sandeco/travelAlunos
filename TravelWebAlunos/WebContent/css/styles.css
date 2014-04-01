@@ -1,0 +1,102 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	background: url("../imagens/bg.jpg") repeat-x #03B0EF;
+	background: #03406A;
+	font: 12px verdana;
+}
+
+#corpo{
+	margin:0 auto;
+	width: 340px;
+	height: 540px;
+	border: 1px solid #015878;
+	background:url("../imagens/bg_splash.png");
+	padding: 30px;
+}
+
+h1{
+	color: #0772A1;
+}
+
+h2{
+	color: #0772A1;
+}
+
+#logo{
+	text-align: center;
+}
+
+#login_form{
+	text-align: left;
+	padding:30px;
+	margin-left: 25px;
+}
+
+.labels{
+	color: #3BA3D0;
+}
+.login_field{
+	width: 220px;
+	font: 14px verdana;
+	padding:5px;
+	color: #0772A1;
+		
+}
+
+#btns_login_page{
+	margin-top:30px;
+	width: 240px;
+	height:54px;
+	
+}
+
+#btn_signup{
+	width: 20px;
+	float: left;
+}
+
+#btn_login{
+	float: right;
+}
+
+#chk_logged{
+	font:10px verdana;
+	color:#05315D;
+	margin-top: 20px;
+	width:230px;
+	height: 29px;
+	background: url("../imagens/fundo_check.png");
+	padding-top: 10px;
+	text-align: center;
+}
+
+.msg_error{
+	color:red;
+	
+}
+
+#box_travel_atual{
+	padding:10px;
+	height: 50px;
+	background: url("../imagens/white_line.png");
+	margin:0 auto;
+}
+
+
+.tables_main{
+	width: 100%;
+	margin-top: 50px;
+}
+
+.cel_btn_main{
+	text-align: center;
+}
+
+
+#main_line_middle{
+	height: 10px;
+	background: url("../imagens/white_line.png");
+	margin-top: 20px;
+	
+}
